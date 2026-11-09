@@ -1,0 +1,1 @@
+# ProGuard rules (minify je vo v0.1 vypnuté)

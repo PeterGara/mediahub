@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaHub</string>
+    <string name="tab_music">Hudba</string>
+    <string name="tab_gallery">Galéria</string>
+    <string name="tab_files">Súbory</string>
+</resources>
